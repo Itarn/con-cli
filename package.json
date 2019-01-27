@@ -1,9 +1,9 @@
 {
-  "name": "my-cli",
+  "name": "geekcon",
   "version": "1.0.0",
   "description": "geekcon-cli",
   "bin": {
-    "geekcon": "./bin/macaw"
+    "geekcon": "./bin/geekcon"
   },
   "dependencies": {
     "commander": "^2.15.1",
