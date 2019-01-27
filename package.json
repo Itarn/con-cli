@@ -1,15 +1,13 @@
 {
   "name": "geekcon",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "geekcon-cli",
   "bin": {
     "geekcon": "./bin/geekcon"
   },
   "dependencies": {
     "commander": "^2.15.1",
-    "execa": "^0.10.0"
-  },
-  "devDependencies": {
+    "execa": "^0.10.0",
     "chalk": "^2.4.1",
     "download-git-repo": "^1.0.2",
     "glob": "^7.1.2",
@@ -21,5 +19,6 @@
     "minimatch": "^3.0.4",
     "ora": "^2.1.0",
     "rimraf": "^2.6.2"
-  }
+  },
+  "devDependencies": {}
 }
